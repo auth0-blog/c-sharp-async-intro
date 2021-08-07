@@ -1,0 +1,15 @@
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/c-sharp-async-intro.deps.json
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/c-sharp-async-intro.runtimeconfig.json
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/c-sharp-async-intro.runtimeconfig.dev.json
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/c-sharp-async-intro.dll
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/ref/c-sharp-async-intro.dll
+/Users/fgiuliani/Code/c-sharp-async-intro/bin/Debug/net5.0/c-sharp-async-intro.pdb
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.csproj.AssemblyReference.cache
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.AssemblyInfoInputs.cache
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.AssemblyInfo.cs
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.csproj.CoreCompileInputs.cache
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.dll
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/ref/c-sharp-async-intro.dll
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.pdb
+/Users/fgiuliani/Code/c-sharp-async-intro/obj/Debug/net5.0/c-sharp-async-intro.genruntimeconfig.cache
